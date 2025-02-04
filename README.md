@@ -7,7 +7,7 @@ Recomendo a plataforma para quem busca adquirir mais conhecimento e praticar!
 
 ## Segue abaixo o enunciado do Desafio
 
-![image](https://github.com/user-attachments/assets/e6d3b42d-9a98-4438-b8b0-dceb76eac9ad)
+🇺🇸
 You are given a function called validateCard. It takes in one parameter, cardNumber, that contains the card number that should be validated. First, check if the number is a valid credit card number using Luhn's Algorithm as shown above. If it is not a valid credit card, print INVALID. If the card is valid, check if it is a MasterCard or an American Express card. Check this using the number of digits. American Express uses 15-digit numbers and MasterCard uses 16-digit numbers. Don't forget to check the starting numbers as well. If American Express is correct, print AMEX, and if MasterCard is correct, print MASTERCARD. If it is any other length, the card number is invalid.
 
 🇧🇷 
